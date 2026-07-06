@@ -10,3 +10,4 @@ pdf2image
 python-multipart
 pytest
 httpx
+reportlab
