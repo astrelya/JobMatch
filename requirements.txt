@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+celery
+redis
+pdfplumber
+pytesseract
+python-docx
+spacy
+pdf2image
+python-multipart
+pytest
+httpx
+reportlab
